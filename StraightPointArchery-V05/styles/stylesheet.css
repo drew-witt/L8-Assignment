@@ -92,13 +92,13 @@ a:link {
 
 a:visited {
   text-decoration: none;
-  color: #ecb722;
+  color: #504107;
 }
 
 a:hover {
   text-decoration: none;
-  color: #ecb722;
-  background-color: #03a3df;
+  color: #504107;
+  background-color: #ecb722;
   padding: 0 .2em;
 }
 

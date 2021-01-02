@@ -1,3 +1,8 @@
+Adjusted text colors to adhere with WebAIM contrast checker
+Managed all anchor tabs were properly wrapped to ensure their clickability
+Ensured all images had an adequate description
+
+
 Straight to the Point Archery
 528 Nock Point Ln
 Tacoma, WA 98412
